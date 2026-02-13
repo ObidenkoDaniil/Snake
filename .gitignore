@@ -1,0 +1,11 @@
+# Pycache
+__pycache__
+
+# Editor folders
+.idea
+.vscode
+
+# Environment
+.venv
+venv
+.env
